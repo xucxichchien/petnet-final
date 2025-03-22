@@ -1,0 +1,5 @@
+{
+  
+  "http.proxy": "http://my-http-proxy-server.com:123",
+  "https.proxy": "https://my-https-proxy-server.com:124"
+}
